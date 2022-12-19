@@ -8,8 +8,8 @@ Durée : 1 jours ,
 
 Taches réalisées : Aestorgs ,
 
-Technos utilisées : SQL , Docker 
+Technos utilisées : SQL , Docker , Postgres
 
-Outils et ressources : MongoDB
+Outils et ressources : Postgres
 
 
